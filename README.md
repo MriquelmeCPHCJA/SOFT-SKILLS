@@ -2,7 +2,7 @@
 
 # About me...👋
 ```
-name: Marcelo Riquelme
+name: Luis Marcelo Riquelme
 located_in: Santiago, Chile
 current_job: IT Support
 company: Cph-Cja
