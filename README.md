@@ -45,3 +45,4 @@ hobbies: ["Music", "Cinema", "Rock", "Meal"]
     <img src="https://skillicons.dev/icons?i=linux,redhat,windows,vscode,js,git,html,css" />
   </a>
 </p>
+
