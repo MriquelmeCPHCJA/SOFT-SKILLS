@@ -103,7 +103,7 @@ Los intereses subyacentes de cada parte involucrada son:
 
 # ✔️ Propuesta de Solución #
 
-Para resolver este conflicto, se propone la creación de un **Equipo de trabajo multidisciplinario** que incluya a __desarrolladores__ con experiencia en ambas tecnologías. 
+Para resolver este conflicto, se propone la creación de un **Equipo de trabajo multidisciplinario** que incluya a __desarrolladores__ con experiencia en ambas tecnologías. Esto puede ayudar a que el equipo pueda ir desarrollando y al mismo tiempo estar capacitandose en aquellos puntos débiles de cada miembro.
 
 Este Equipo se encargará de realizar un análisis detallado de las ventajas y desventajas de cada opción, considerando factores técnicos, económicos y de tiempo.
 
