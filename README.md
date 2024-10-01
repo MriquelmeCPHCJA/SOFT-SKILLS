@@ -40,7 +40,8 @@ hobbies: ["Music", "Cinema", "Rock", "Meal"]
   
 
   ## ⚡ Some technologies I use:
-  <img src="https://img.shields.io/badge/LINUX-E34F26?style=for-the-badge&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/WINDOWS-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,windows,vscode,js,git,html,css" />
+  </a>
+</p>
