@@ -14,13 +14,13 @@
 <h3>Proyecto finalización etapa 2 - Soft Skill.</h3>
 </div>
 
-Los estudiantes deberán confeccionar un informe basado en los conceptos adquiridos (, , , , .)  (`Toma de decisiones`, `gestión del tiempo`, `feedback`, `negociación`, `networking`.)
+Los estudiantes deberán confeccionar un informe basado en los conceptos adquiridos (`Toma de decisiones`, `gestión del tiempo`, `feedback`, `negociación`, `networking`.)
 
 **Problema**: El equipo de desarrollo debe decidir entre dos frameworks para el backend del proyecto, uno conocido por el equipo y otro más moderno pero menos familiar. El tiempo es limitado, y el equipo necesita tomar una decisión rápidamente.
 
 # 📚 Estructura de Carpetas del Repo #
 
-- **docs:** Informe del preoyecto en formato PDF para descarga 
+- **docs:** Informe del preoyecto en formato PDF para descarga o visualización.
 
 ***Luis Marcelo Riquelme***
 
